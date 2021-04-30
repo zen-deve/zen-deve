@@ -28,6 +28,7 @@ Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai Web De
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=zen-deve&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-deve&layout=compact" height=180 />
 </p>
 
 ## Trophies
