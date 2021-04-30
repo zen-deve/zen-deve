@@ -23,7 +23,7 @@ Saat ini saya terbuka untuk peluang apa pun terutama di bidang IT sebagai Web De
     - 🤔 Saya mencari bantuan dengan ... </br>
     - 💬 Tanya saya tentang apa saja. </br>
     - 📫 Cara menghubungi saya : <a href="mailto: wolfhiro10@gmail.com">Email Saya!</a>  </br>
-    - 😄 Kata ganti: Aku / Saya
+    - 😄 Kata ganti: Aku / Saya </br>
     - ⚡ Fakta menyenangkan: ... </br>
 </details>
 <p>
